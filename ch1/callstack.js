@@ -1,12 +1,11 @@
-
 function first(){
-    console.log("첫번째");
     seconde();
+    console.log("첫번째");
 }
 
 function seconde(){
-    console.log("두번째");
     third();
+    console.log("두번째");
 }
 
 function third(){
